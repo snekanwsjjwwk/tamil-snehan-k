@@ -30,5 +30,5 @@ def rock_paper_scissors():
             print("Thanks for playing! 👋")
             break
 
-# Run the game
 rock_paper_scissors()
+
